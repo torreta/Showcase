@@ -15,6 +15,12 @@ Mysql avanzado
 > Codetrace:
 https://codetrace.com/users/torreta
 
+> hackerrank
+https://www.hackerrank.com/profile/torreta
+
+> codingame
+https://www.codingame.com/profile/3be1ea1ef1e5d088562d9085013c2c9f4793761
+
 ___
 > Written with [StackEdit](https://stackedit.io/).
 
